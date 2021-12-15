@@ -7,7 +7,7 @@
 ### MINE STACK
 ![Django](https://img.shields.io/badge/-Djnago-0C4B33?style=flat-square&logo=Django&logoColor=FDF5E6)
 ![C#](https://img.shields.io/badge/-CSharp-D140FD?style=flat-square&logo=CSharp&logoColor=FDF5E6)
-![Django](https://img.shields.io/badge/-Djnago-0C4B33?style=flat-square&logo=Django&logoColor=FDF5E6)
+![Flutter](https://img.shields.io/badge/-Flutter-FFFFFF?style=flat-square&logo=Flutter&logoColor=006AFF)
 ![Django](https://img.shields.io/badge/-Djnago-0C4B33?style=flat-square&logo=Django&logoColor=FDF5E6)
 ![Django](https://img.shields.io/badge/-Djnago-0C4B33?style=flat-square&logo=Django&logoColor=FDF5E6)
 ![Django](https://img.shields.io/badge/-Djnago-0C4B33?style=flat-square&logo=Django&logoColor=FDF5E6)
