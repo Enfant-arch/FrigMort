@@ -9,6 +9,4 @@
 ![C#](https://img.shields.io/badge/-CS-D140FD?style=flat-square&logo=CSharp&logoColor=FDF5E6)
 ![.NET](https://img.shields.io/badge/-FRAMEWORK-090909?style=flat-square&logo=.net&logoColor=006AFF)
 ![JS](https://img.shields.io/badge/JS-090909?style=flat-square&logo=JavaScript&logoColor=E9D54D)
-![Django](https://img.shields.io/badge/-Djnago-0C4B33?style=flat-square&logo=Django&logoColor=FDF5E6)
-![Django](https://img.shields.io/badge/-Djnago-0C4B33?style=flat-square&logo=Django&logoColor=FDF5E6)
-![Django](https://img.shields.io/badge/-Djnago-0C4B33?style=flat-square&logo=Django&logoColor=FDF5E6)
+
