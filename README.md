@@ -1,7 +1,7 @@
 ### SUP BODY 👋
 
 ### I'm **begginner** and about my **progress** i say [here]() and [here]()
-![Matrix](https://user-images.githubusercontent.com/52455330/139071980-91302a8a-37b1-4196-803e-f91b1de2ee5b.gif)
+![Matrix](https://media0.giphy.com/media/kic65zXQK8Ej84ZZQK/giphy.gif?cid=ecf05e476322bbf6569a8959828250fd7ddd5b5a7dd8eb6d&rid=giphy.gif)
 
 
 ### MINE STACK
