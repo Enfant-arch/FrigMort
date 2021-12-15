@@ -5,4 +5,5 @@
 
 
 ### MINE STACK
-![Django](https://img.shields.io/badge/Djnago-<#0C4B33>?style=flat-square&logo=Django) ![C#](https://img.shields.io/badge/C#-<#32164B>?style=flat-square&logo=C#) 
+![Django](https://img.shields.io/badge/-Djnago-<#0C4B33>?style=flat-square&logo=Django)
+![C#](https://img.shields.io/badge/C#-<#32164B>?style=flat-square&logo=C#) 
