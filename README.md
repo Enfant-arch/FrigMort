@@ -2,4 +2,4 @@
 
 
 ### MINE STACK
-![Flutter](https://img.shields.io/v1?&message=<DJANGO>&color=<#0C4B33>)
+![Flutter](https://img.shields.io/badge/<Djnago>-<#0C4B33>)
