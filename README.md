@@ -13,3 +13,6 @@
 ### I HERE
 
 [![YouTube](https://img.shields.io/badge/-YouTube-FFFFFF?style=flat-square&logo=YouTube&logoColor=EB2300)](https://www.youtube.com/channel/UCJ2naIHGzY7ACQP9M5gQtyw)
+[![Instagram](https://img.shields.io/badge/-Instagram-FFFFFF?style=flat-square&logo=Instagram&logoColor=CD87EA)](https://www.instagram.com/youngbabyzy/)
+[![YouTube](https://img.shields.io/badge/-YouTube-FFFFFF?style=flat-square&logo=YouTube&logoColor=EB2300)](https://www.youtube.com/channel/UCJ2naIHGzY7ACQP9M5gQtyw)
+[![YouTube](https://img.shields.io/badge/-YouTube-FFFFFF?style=flat-square&logo=YouTube&logoColor=EB2300)](https://www.youtube.com/channel/UCJ2naIHGzY7ACQP9M5gQtyw)
