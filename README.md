@@ -12,4 +12,4 @@
 
 ### I HERE
 
-![YouTube](https://img.shields.io/badge/-YouTube-FFFFFF?style=flat-square&logo=YouTube&logoColor=EB2300)
+![YouTube](https://img.shields.io/badge/-YouTube-FFFFFF?style=flat-square&logo=YouTube&logoColor=EB2300)](https://www.youtube.com/channel/UCJ2naIHGzY7ACQP9M5gQtyw)
