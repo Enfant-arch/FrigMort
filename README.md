@@ -1,6 +1,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=FrigMort)](https://github.com/ryo-ma/github-profile-trophy)
-![Matrix](https://media.giphy.com/media/3o7buaZlGjDH5xQ8Ew/giphy.gif)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrigMort&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrigMort&layout=compact)](https://github.com/anuraghazra/github-readme-stats)[![FrigMort GitHub stats](https://github-readme-stats.vercel.app/api?username=FrigMort)](https://github.com/anuraghazra/github-readme-stats)
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+developer+stack#)](https://git.io/typing-svg)
 ![Django](https://img.shields.io/badge/-DJANGO-0C4B33?style=flat-square&logo=Django&logoColor=FDF5E6)
 ![C#](https://img.shields.io/badge/-CS-D140FD?style=flat-square&logo=CSharp&logoColor=FDF5E6)
@@ -20,5 +20,5 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FrigMort)](https://git.io/streak-stats)
-[![FrigMort GitHub stats](https://github-readme-stats.vercel.app/api?username=FrigMort)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FrigMort)](https://git.io/streak-stats)[]![hi](https://media.giphy.com/media/3o7buaZlGjDH5xQ8Ew/giphy.gif)
+
