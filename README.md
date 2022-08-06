@@ -18,7 +18,5 @@
 
 
 
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FrigMort)](https://git.io/streak-stats)[]![hi](https://media.giphy.com/media/3o7buaZlGjDH5xQ8Ew/giphy.gif)
+![hi](https://media.giphy.com/media/3o7buaZlGjDH5xQ8Ew/giphy.gif)
 
